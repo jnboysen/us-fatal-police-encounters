@@ -1,0 +1,292 @@
+﻿State,City,State_Code,population,total_employees,total_officers,total_civilians
+Alabama,Tuscaloosa,AL,101764,349,274,75
+Alabama,Huntsville,AL,196620,633,434,199
+Alabama,Montgomery,AL,198662,566,474,92
+Alabama,Birmingham,AL,210564,977,762,215
+Alabama,Mobile,AL,245475,715,494,221
+Alaska,Anchorage,AK,291992,574,427,147
+Arizona,Surprise,AZ,136611,193,139,54
+Arizona,Peoria,AZ,170177,278,196,82
+Arizona,Tempe,AZ,188543,488,346,142
+Arizona,Gilbert,AZ,247463,386,232,154
+Arizona,Glendale,AZ,249799,561,426,135
+Arizona,Scottsdale,AZ,254961,608,381,227
+Arizona,Chandler,AZ,255986,494,332,162
+Arizona,Mesa,AZ,504873,1202,779,423
+Arizona,Tucson,AZ,537392,1015,807,208
+Arizona,Phoenix,AZ,1653080,3902,2919,983
+Arkansas,Little Rock,AR,199288,701,575,126
+California,Vacaville,CA,101146,157,103,54
+California,Rialto,CA,104173,125,96,29
+California,El Cajon,CA,104497,182,119,63
+California,Burbank,CA,105041,231,148,83
+California,San Mateo,CA,105839,148,107,41
+California,West Covina,CA,107806,153,95,58
+California,Daly City,CA,107928,124,98,26
+California,Santa Maria,CA,108100,170,121,49
+California,Inglewood,CA,110726,235,185,50
+California,Richmond,CA,110982,253,181,72
+California,Ventura,CA,111272,176,136,40
+California,Clovis,CA,111759,166,101,65
+California,Antioch,CA,112956,133,97,36
+California,Downey,CA,113277,165,116,49
+California,Costa Mesa,CA,114358,188,128,60
+California,Murrieta,CA,114706,129,88,41
+California,El Monte,CA,116464,162,119,43
+California,Carlsbad,CA,116739,162,117,45
+California,Fairfield,CA,117883,177,119,58
+California,Vallejo,CA,122974,150,107,43
+Iowa,Des Moines,IA,516853,465,362,103
+California,Berkeley,CA,123735,247,153,94
+California,Simi Valley,CA,127222,162,109,53
+California,Santa Clara,CA,128682,222,150,72
+California,Concord,CA,130855,197,145,52
+California,Visalia,CA,134224,212,146,66
+California,Roseville,CA,137706,185,122,63
+California,Orange,CA,141108,218,152,66
+California,Fullerton,CA,141132,189,124,65
+California,Pasadena,CA,143448,333,222,111
+California,Torrance,CA,146968,316,212,104
+California,Escondido,CA,153073,209,155,54
+California,Pomona,CA,153496,269,146,123
+California,Sunnyvale,CA,155637,282,217,65
+California,Salinas,CA,158590,204,151,53
+California,Hayward,CA,162881,292,177,115
+California,Corona,CA,170041,209,148,61
+California,Elk Grove,CA,174651,226,139,87
+California,Garden Grove,CA,174661,213,155,58
+California,Santa Rosa,CA,176325,246,170,76
+California,Oceanside,CA,177464,293,207,86
+California,Ontario,CA,177542,381,280,101
+California,Huntington Beach,CA,203428,349,215,134
+California,Glendale,CA,204724,323,223,100
+California,Oxnard,CA,211737,357,239,118
+California,Fontana,CA,213964,290,183,107
+California,Modesto,CA,215822,301,217,84
+California,San Bernardino,CA,217986,394,238,156
+California,Fremont,CA,238024,278,181,97
+California,Chula Vista,CA,274370,305,221,84
+California,Irvine,CA,288052,310,216,94
+California,Stockton,CA,313158,671,469,202
+California,Riverside,CA,331022,522,370,152
+California,Santa Ana,CA,335403,533,313,220
+California,Anaheim,CA,354743,597,419,178
+California,Bakersfield,CA,385609,537,398,139
+California,Oakland,CA,430230,1010,731,279
+California,Long Beach,CA,470445,1164,824,340
+California,Sacramento,CA,507037,948,651,297
+California,Fresno,CA,531818,1063,811,252
+California,San Francisco,CA,889282,2913,2306,607
+California,San Jose,CA,1047305,1550,1113,437
+California,San Diego,CA,1436495,2332,1731,601
+California,Los Angeles,CA,4029741,13010,9974,3036
+Colorado,Greeley,CO,107325,208,156,52
+Colorado,Boulder,CO,108380,262,173,89
+Colorado,Centennial,CO,111646,163,122,41
+Colorado,Pueblo,CO,111756,279,219,60
+Colorado,Westminster,CO,113751,247,174,73
+Colorado,Arvada,CO,120631,220,174,46
+Colorado,Thornton,CO,139697,313,233,80
+Colorado,Lakewood,CO,156779,409,285,124
+Colorado,Fort Collins,CO,168163,302,207,95
+Colorado,Aurora,CO,372824,857,723,134
+Colorado,Colorado Springs,CO,471124,995,702,293
+Colorado,Denver,CO,720745,1824,1517,307
+New Mexico,Albuquerque,NM,558874,864,864,
+Connecticut,Waterbury,CT,108378,315,264,51
+Connecticut,Hartford,CT,123117,425,394,31
+Connecticut,New Haven,CT,131181,460,406,54
+Connecticut,Stamford,CT,132007,304,282,22
+Connecticut,Bridgeport,CT,146819,445,392,53
+District of Columbia,Washington,DC,702455,4520,3841,679
+Florida,Boca Raton,FL,100162,302,200,102
+Florida,Davie,FL,107120,258,187,71
+Florida,Lakeland,FL,109616,351,241,110
+Florida,West Palm Beach,FL,111659,377,287,90
+Florida,Pompano Beach,FL,112045,258,231,27
+Florida,Palm Bay,FL,112902,209,152,57
+Florida,Miami Gardens,FL,114670,264,214,50
+Florida,Clearwater,FL,116504,321,233,88
+Florida,Gainesville,FL,133400,330,262,68
+Florida,Coral Springs,FL,134640,307,210,97
+Florida,Miramar,FL,143103,290,215,75
+Florida,Hollywood,FL,155503,394,300,94
+Florida,Pembroke Pines,FL,173053,361,267,94
+Florida,Fort Lauderdale,FL,182150,679,525,154
+Florida,Cape Coral,FL,187869,311,228,83
+Florida,Tallahassee,FL,192443,447,377,70
+Florida,Port St. Lucie,FL,193137,299,232,67
+Florida,Hialeah,FL,241778,335,269,66
+Florida,St. Petersburg,FL,265942,781,549,232
+Florida,Orlando,FL,286679,944,729,215
+Florida,Tampa,FL,392945,1206,946,260
+Florida,Miami,FL,473047,1741,1309,432
+Florida,Jacksonville,FL,903213,3032,1724,1308
+Georgia,Sandy Springs,GA,108654,157,139,18
+Georgia,Athens-Clarke County,GA,127014,278,218,60
+Georgia,Columbus,GA,194135,503,403,100
+Georgia,Savannah-Chatham Metropolitan,GA,242265,687,519,168
+Georgia,Atlanta,GA,496106,1987,1535,452
+Hawaii,Honolulu,HI,982019,2434,1942,492
+Idaho,Meridian,ID,103774,135,105,30
+Idaho,Boise,ID,229265,376,292,84
+Illinois,Peoria,IL,112595,226,207,19
+Illinois,Elgin,IL,113060,233,181,52
+Illinois,Springfield,IL,114623,268,239,29
+Illinois,Rockford,IL,146198,339,299,40
+Illinois,Joliet,IL,148553,340,269,71
+Illinois,Chicago,IL,2719151,14086,13138,948
+Indiana,South Bend,IN,102397,283,237,46
+Indiana,Fort Wayne,IN,267634,531,470,61
+Indiana,Indianapolis,IN,877584,3153,2616,537
+Iowa,Davenport,IA,102706,193,170,23
+Iowa,Cedar Rapids,IA,133039,279,212,67
+Kansas,Topeka,KS,126399,324,267,57
+Kansas,Olathe,KS,139154,211,182,29
+Kansas,Overland Park,KS,193877,295,237,58
+Kansas,Wichita,KS,391726,824,648,176
+Kentucky,Lexington,KY,325579,701,611,90
+Kentucky,Louisville,KY,682005,1538,1246,292
+Louisiana,Lafayette,LA,127592,332,283,49
+Louisiana,Baton Rouge,LA,224790,795,631,164
+Louisiana,New Orleans,LA,396374,1457,1209,248
+Maine,Shreveport,ME,190808,721,524,197
+Maryland,Baltimore,MD,605436,2935,2488,447
+Massachusetts,Lowell,MA,111989,316,241,75
+Massachusetts,Cambridge,MA,114881,320,277,43
+Massachusetts,Springfield,MA,155179,552,489,63
+Massachusetts,Worcester,MA,186188,495,445,50
+Massachusetts,Boston,MA,694673,2715,2122,593
+Michigan,Clinton Township,MI,101279,101,93,8
+Michigan,Lansing,MI,117380,213,188,25
+Michigan,Ann Arbor,MI,122571,145,119,26
+Michigan,Sterling Heights,MI,133055,168,146,22
+Michigan,Warren,MI,135160,246,207,39
+Michigan,Grand Rapids,MI,200428,335,276,59
+Michigan,Detroit,MI,671275,3019,2398,621
+Minnesota,Rochester,MN,117037,198,137,61
+Minnesota,St. Paul,MN,309756,768,631,137
+Minnesota,Minneapolis,MN,428261,1037,849,188
+Missouri,Independence,MO,117368,285,200,85
+Missouri,Columbia,MO,123586,195,158,37
+Missouri,Springfield,MO,168537,409,335,74
+Missouri,St. Louis,MO,306875,1608,1189,419
+Missouri,Kansas City,MO,493115,1819,1299,520
+Montana,Billings,MT,110397,185,148,37
+Nebraska,Lincoln,NE,288589,479,344,135
+Nebraska,Omaha,NE,469351,1016,879,137
+Nevada,Sparks,NV,102354,162,112,50
+Nevada,North Las Vegas,NV,246951,420,296,124
+Nevada,Reno,NV,252341,386,320,66
+Nevada,Henderson,NV,309586,664,380,284
+Nevada,Las Vegas,NV,1644390,4535,2962,1573
+New Hampshire,Manchester,NH,111422,279,227,52
+New Jersey,Woodbridge Township,NJ,100884,264,196,68
+New Jersey,Edison Township,NJ,101309,219,170,49
+New Jersey,Lakewood Township,NJ,102915,171,137,34
+New Jersey,Elizabeth,NJ,129080,411,313,98
+New Jersey,Paterson,NJ,146893,526,419,107
+New Jersey,Jersey City,NJ,270175,955,886,69
+New Jersey,Newark,NJ,282258,1490,1155,335
+New York,Amherst Town,NY,121343,181,151,30
+New York,Syracuse,NY,143129,488,418,70
+New York,Yonkers,NY,202827,669,587,82
+New York,Rochester,NY,207701,863,747,116
+New York,Buffalo,NY,258219,973,784,189
+New York,New York,NY,8523171,52278,36134,16144
+North Carolina,High Point,NC,112526,289,237,52
+North Carolina,Wilmington,NC,120920,333,268,65
+North Carolina,Cary,NC,170518,231,190,41
+North Carolina,Fayetteville,NC,210117,582,428,154
+North Carolina,Winston-Salem,NC,246759,686,502,184
+North Carolina,Durham,NC,273759,641,530,111
+North Carolina,Greensboro,NC,293298,781,630,151
+North Carolina,Raleigh,NC,473765,855,732,123
+North Carolina,Charlotte,NC,931235,2342,1817,525
+North Dakota,Fargo,ND,124906,196,174,22
+Ohio,Dayton,OH,140094,424,358,66
+Ohio,Akron,OH,197690,475,442,33
+Ohio,Toledo,OH,275023,686,590,96
+Ohio,Cincinnati,OH,301952,1167,1032,135
+Ohio,Cleveland,OH,384666,1675,1462,213
+Ohio,Columbus,OH,892576,2255,1870,385
+Oklahoma,Broken Arrow,OK,109663,198,146,52
+Oklahoma,Norman,OK,124577,239,176,63
+Oklahoma,Tulsa,OK,403147,987,807,180
+Oklahoma,Oklahoma City,OK,652936,1382,1102,280
+Oregon,Hillsboro,OR,109121,182,135,47
+Oregon,Gresham,OR,111797,163,132,31
+Oregon,Eugene,OR,170771,306,181,125
+Oregon,Salem,OR,172022,318,190,128
+Oregon,Portland,OR,657260,1177,922,255
+Oregon,Black Butte,OR,,7,6,1
+Oregon,Sunriver,OR,,12,11,1
+Pennsylvania,Allentown,PA,121743,232,211,21
+Pennsylvania,Pittsburgh,PA,302544,999,950,49
+Pennsylvania,Philadelphia,PA,1586916,7366,6577,789
+Pennsylvania,Morris-Cooper Regional,PA,,1,1,0
+Rhode Island,Providence,RI,180169,505,410,95
+South Carolina,North Charleston,SC,112840,389,323,66
+South Carolina,Columbia,SC,133540,454,363,91
+South Carolina,Charleston,SC,137092,514,410,104
+South Dakota,Sioux Falls,SD,180335,293,256,37
+Tennessee,Murfreesboro,TN,140702,292,242,50
+Tennessee,Clarksville,TN,156264,342,278,64
+Tennessee,Chattanooga,TN,180397,601,490,111
+Tennessee,Knoxville,TN,188653,502,387,115
+Tennessee,Memphis,TN,652226,2605,1995,610
+Tennessee,Nashville,TN,686492,1757,1435,322
+Texas,Allen,TX,103168,190,134,56
+Texas,Wichita Falls,TX,104738,272,190,82
+Texas,Lewisville,TX,107560,217,144,73
+Texas,College Station,TX,116565,214,143,71
+Texas,Richardson,TX,119480,253,159,94
+Texas,Odessa,TX,119545,212,160,52
+Texas,Abilene,TX,122480,268,202,66
+Texas,Pearland,TX,124179,223,163,60
+Texas,Round Rock,TX,127354,241,169,72
+Texas,Waco,TX,138091,347,249,98
+Texas,Carrollton,TX,138216,218,165,53
+Texas,Denton,TX,139262,227,174,53
+Texas,McAllen,TX,144363,427,285,142
+Texas,Mesquite,TX,144558,311,228,83
+Texas,Killeen,TX,148007,322,251,71
+Texas,Brownsville,TX,184461,299,197,102
+Texas,Frisco,TX,187889,285,186,99
+Texas,McKinney,TX,189555,273,212,61
+Texas,Grand Prairie,TX,196535,506,260,246
+Texas,Garland,TX,239577,471,344,127
+Texas,Irving,TX,243940,530,354,176
+Texas,Lubbock,TX,257372,534,432,102
+Texas,Plano,TX,289897,585,408,177
+Texas,Corpus Christi,TX,328614,652,443,209
+Texas,Arlington,TX,400920,871,673,198
+Texas,El Paso,TX,688442,1341,1103,238
+Texas,Fort Worth,TX,893756,2132,1694,438
+Texas,Austin,TX,973344,2422,1851,571
+Texas,Dallas,TX,1362465,3581,3007,574
+Texas,San Antonio,TX,1539328,2991,2352,639
+Texas,Houston,TX,2344966,6258,5229,1029
+Utah,West Jordan,UT,115392,146,114,32
+Utah,Provo,UT,117986,127,101,26
+Utah,West Valley,UT,137132,250,207,43
+Utah,Salt Lake City,UT,202633,583,474,109
+Vermont,Roanoke,VT,100042,309,263,46
+Vermont,Hampton,VT,133965,371,270,101
+Vermont,Alexandria,VT,162588,408,320,88
+Vermont,Newport News,VT,178734,567,421,146
+Virginia,Richmond,VA,229927,841,737,104
+Virginia,Chesapeake,VA,242310,519,373,146
+Virginia,Norfolk,VA,244347,801,702,99
+Vermont,Virginia Beach,VT,451001,953,778,175
+Washington,Renton,WA,102749,154,124,30
+Washington,Everett,WA,111091,230,194,36
+Washington,Kent,WA,129870,197,143,54
+Washington,Bellevue,WA,146913,210,172,38
+Washington,Vancouver,WA,177580,258,205,53
+Washington,Tacoma,WA,215687,386,346,40
+Washington,Spokane,WA,218222,410,326,84
+Washington,Seattle,WA,742759,1954,1420,534
+Wisconsin,Green Bay,WI,105281,220,180,40
+Wisconsin,Madison,WI,258455,595,482,113
+Wisconsin,Milwaukee,WI,595619,2305,1851,454
