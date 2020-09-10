@@ -2,7 +2,8 @@
 ## Seattle, where do we go from here? A data driven look at fatal police encounters.
 
 ### Motivation:
-The death of George Floyd has set-off a chain reaction of anger and frustration across the United States. In watching the officers put their knee on Geroge Floyd I couldn’t help but wonder how often fatal police encounters happen in Seattle. The purpose of this analysis is to answer the following questions related to fatal police encounters in Seattle, and address the current call to defund the police.  A full write up of the findings are available here: 
+The death of George Floyd has set-off a chain reaction of anger and frustration across the United States. In watching the officers put their knee on Geroge Floyd I couldn’t help but wonder how often fatal police encounters happen in Seattle. The purpose of this analysis is to answer the following questions related to fatal police encounters in Seattle, and address the current call to defund the police.  A full write up of the findings are available here: https://medium.com/@jacobsworld/seattle-where-do-we-go-from-here-a-data-driven-look-at-fatal-police-encounters-4917adf67a76
+
 
 ### Questions
 1. How often do people engage with police and end up dead? I
