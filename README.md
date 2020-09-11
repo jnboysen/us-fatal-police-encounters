@@ -35,23 +35,23 @@ I separated the code for this project into three notebooks.  If you are only int
 #### Fatal Police Encounters: 
 The data on police fatal encounters comes from an independent database made available by fatalecounters.org. The data source includes fatal police encounters since January 1st, 2000, and contains both intentional use of force and unintentional incidents like suicide or vehicle pursuit. 
 
-> File: fatal_encounters.csv
-> Reference Link: https://fatalencounters.org
+1. File: fatal_encounters.csv
+2.  Reference Link: https://fatalencounters.org
 
 #### 2020 City Population + 2017 Census: 
-The data I was looking for by city required me to pull and join data from multiple data sources. The data is a combination of 2020 city population data, 2017 US census data by county, and 2018 stats on the number of police officers active in each city department. 
+The variables required for this analysis required me to pull data together from multiple sources. The data is a combination of 2020 city population data, 2017 US census data by county, and 2018 stats on the number of police officers active in each city department. 
 
 #### 2017 Census Data
-> File: census_data_2017
-> Reference Link:https://www.kaggle.com/muonneutrino/us-census-demographic-data
+1. File: census_data_2017
+2. Reference Link:https://www.kaggle.com/muonneutrino/us-census-demographic-data
 
 #### Top 200 Cities
-> File: city_population.csv
-> Reference Link:https://worldpopulationreview.com/us-cities
+1. File: city_population.csv
+2. Reference Link:https://worldpopulationreview.com/us-cities
 
 #### 2018 Full-time Law Enforcement Employees
-> File: police_departments_2018.csv
-> Reference Link: https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78.xls/view
+1. File: police_departments_2018.csv
+2. Reference Link: https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/tables/table-78/table-78.xls/view
 
 #### Output of Part 1 - Data Prep
-> File: clean_city_data.csv
+1. File: clean_city_data.csv
