@@ -22,7 +22,7 @@ The death of George Floyd has set-off a chain reaction of anger and frustration 
 8. pingouin
 9. sys
 
-### Jupiter notebook files
+### Jupyter notebook files
 
 I separated the code for this project into three notebooks.  If you are only interested in the exploratory analysis then you can jump to Part 3.  Part 1 is the code used to create the clean_city_data_file. Part 2 is the code I used to determine the optimal number of clusters for for the KMeans model.
 
