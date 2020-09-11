@@ -6,9 +6,9 @@ The death of George Floyd has set-off a chain reaction of anger and frustration 
 
 
 ### Questions
-1. How often do people engage with police and end up dead? I
-2. Is this common, and how do we compare to other cities like Chicago, Portland, or Denver? 
-3. Is defunding the police the right course of action?
+1. How many fatal police encounters occur in Seattle annually?
+2. How does Seattle compare to other cities?
+3. Is defunding the police the right solution?
 
 ### Required libraries
 
