@@ -2,7 +2,9 @@
 ## Seattle, where do we go from here? A data driven look at fatal police encounters.
 
 ### Motivation:
-The death of George Floyd has set-off a chain reaction of anger and frustration across the United States. In watching the officers put their knee on Geroge Floyd I couldn’t help but wonder how often fatal police encounters happen in Seattle. The purpose of this analysis is to answer the following questions related to fatal police encounters in Seattle, and address the current call to defund the police.  The full Medium blog post on the analysis can be found here: https://medium.com/@jacobsworld/seattle-where-do-we-go-from-here-a-data-driven-look-at-fatal-police-encounters-4917adf67a76
+The death of George Floyd has set-off a chain reaction of anger and frustration across the United States. In watching the officers put their knee on Geroge Floyd I couldn’t help but wonder how often fatal police encounters happen in Seattle. The purpose of this analysis is to answer the following questions related to fatal police encounters in Seattle, and address the current call to defund the police.  
+
+The full Medium blog post on the analysis can be found here: https://medium.com/@jacobsworld/seattle-where-do-we-go-from-here-a-data-driven-look-at-fatal-police-encounters-4917adf67a76
 
 
 ### Questions
@@ -26,9 +28,10 @@ The death of George Floyd has set-off a chain reaction of anger and frustration 
 
 I separated the code for this project into three notebooks.  If you are only interested in the exploratory analysis then you can jump to Part 3.  Part 1 is the code used to create the clean_city_data_file. Part 2 is the code I used to determine the optimal number of clusters for for the KMeans model.
 
-1. Fatal Police Encounters Part 1 - Data Prep
-2. Fatal Police Encounters Part 2 - Train Kmeans model
-3. Fatal Police Encounters Part 3 - Exploratory Analysis
+1. Fatal Police Encounters Part 1 - Motivation and Data Understanding
+2. Fatal Police Encounters Part 2 - Data Prep
+2. Fatal Police Encounters Part 3 - Train K-Means model
+3. Fatal Police Encounters Part 4 - Exploratory Data Analysis
 
 ### Data
 
@@ -55,3 +58,15 @@ The variables required for this analysis required me to pull data together from 
 
 #### Output of Part 1 - Data Prep
 1. File: clean_city_data.csv
+
+## Summary of Finding
+
+Policing in the United States is a complex topic that needs to be addressed. Data can be a powerful mechanism for change; a way to shine a light what’s working, and what’s not working.
+
+This exploratory analysis provides us some insight into the long-term trends of encounters with Seattle police that turn fatal. With an average of 2.7 fatalities per year, Seattle ranks 2nd out of 6 similar cities across the U.S. That rate is 2x the rate of Nashville but 70% less than the Denver. While positive, we can also see that Seattle’s average rate hasn’t change significantly in the last 20 years.
+
+Is defunding the police the right decision? An answer to this question requires a more robust analysis, however the low correlation between the two variables and the dispursion of fatalities should give us pause. There appears to be little evidence that defunding the police will significantly change the fatality rate of encounters with police.
+
+
+## Acknolwedgment
+A special thank you to fataleoncounters.org for collecting ad making the data on fatal police encounters available. The insight gained from this analysis would not be possible without your the data you've made available. Also, thank you to Udacity.com, Simon Storey, and Jess Estrada for providing feedback on both the technical elements and summary of findings.

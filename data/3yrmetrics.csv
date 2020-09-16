@@ -1,5 +1,5 @@
-,Boston,Denver,El Paso,Indianapolis,Nashville,San Francisco,Seattle,Washington
-total,4.0,22.0,6.0,4.0,4.0,7.0,8.0,9.0
-mean,1.3,7.3,2.0,1.3,1.3,2.3,2.7,3.0
-median,1.0,8.0,1.0,1.0,2.0,2.0,3.0,3.0
-sd,1.5,4.0,1.7,0.6,1.2,2.5,0.6,1.0
+,Columbus,Denver,Nashville,Oklahoma City,Portland,Seattle
+total,23.0,22.0,4.0,17.0,13.0,8.0
+mean,7.7,7.3,1.3,5.7,4.3,2.7
+median,7.0,8.0,2.0,6.0,5.0,3.0
+sd,5.0,4.0,1.2,0.6,1.2,0.6
